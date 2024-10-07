@@ -1,8 +1,8 @@
-title: Developer Documentation | ThetaLang
+title: Theta Developer Docs
 description: Language documentation for developers of the Theta programming language
 theme: just-the-docs
 
+color_scheme: dracula
+
 url: https://dev.theta-lang.org
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
