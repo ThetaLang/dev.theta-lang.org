@@ -3,6 +3,7 @@ layout: default
 title: Code Generation
 nav_order: 5
 description: Technical overview of the Theta code generator and its implementation details.
+parent: Compiler Architecture
 ---
 
 # Theta Code Generation

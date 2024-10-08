@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Parser
-nav_order: 2
+nav_order: 3
 description: Technical overview of the Theta parser and its implementation details.
+parent: Compiler Architecture
 ---
 
 # Theta Parser

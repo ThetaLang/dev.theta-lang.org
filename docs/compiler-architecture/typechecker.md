@@ -3,6 +3,7 @@ layout: default
 title: Type Checker
 nav_order: 4
 description: Technical overview of the Theta TypeChecker and its implementation details.
+parent: Compiler Architecture
 ---
 
 # Theta Type Checker

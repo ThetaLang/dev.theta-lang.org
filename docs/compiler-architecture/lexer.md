@@ -3,6 +3,7 @@ layout: default
 title: Lexer
 nav_order: 2
 description: Technical overview of the Theta lexer and its implementation details.
+parent: Compiler Architecture
 ---
 
 # Theta Lexer
@@ -120,7 +121,7 @@ Here’s a step-by-step example of how the Theta lexer processes a simple source
 **Source**:
 ```cpp
 if (x == 10) {
-  return x;
+  return x
 }
 ```
 
