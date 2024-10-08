@@ -54,4 +54,4 @@ For a deep dive into the architecture, start with [Core Language Design](./docs/
 ## Related Resources
 
 - **Theta User Documentation**: [docs.theta-lang.org](https://docs.theta-lang.org)
-- **Theta GitHub Repository**: [github.com/theta-lang](https://github.com/theta-lang)
+- **Theta GitHub Repository**: [github.com/theta-lang](https://github.com/ThetaLang/Theta)
