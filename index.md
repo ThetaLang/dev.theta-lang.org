@@ -47,7 +47,7 @@ This documentation is organized around the following topics:
 
 If you're new to contributing to Theta, please begin by reading the [Contributing Guide](https://github.com/ThetaLang/Theta/blob/master/CONTRIBUTING.md). It outlines how to set up your development environment and introduces our processes for building, testing, and reviewing changes.
 
-For a deep dive into the architecture, start with [Core Language Design](./language-design.html) and [Compiler Architecture](./compiler-architecture.html).
+For a deep dive into the architecture, start with [Core Language Design](./docs/core-language-design.html) and [Compiler Architecture](./docs/compiler-architecture/).
 
 ---
 
